@@ -2,7 +2,8 @@
 
 ConnectCircle is an interactive social platform designed to connect people, foster creative expression, and build vibrant online communities. It offers a variety of features such as posting, saving content, commenting, and following other users and communities, allowing for a dynamic and engaging user experience. With ConnectCircle, users can post photos, share videos, and comment on others' content while building meaningful connections.
 
-![UI-ConnectCircle](https://raw.githubusercontent.com/alwinvargh/ConnectCircle/refs/heads/main/img/be.jpg)]
+![UI-ConnectCircle](https://raw.githubusercontent.com/alwinvargh/ConnectCircle/refs/heads/main/img/sin.jpg)
+
 
 ## Table of Contents
 
