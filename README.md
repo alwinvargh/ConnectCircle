@@ -88,33 +88,11 @@ There are three distinct user roles within the system:
 
 ### Installation
 
-1. Downld the folder ConnectCircle and Go to the project directory and install dependencies for both the client and server
+1. `git clone` it
+`cd` into server and client folder, and run `npm install` respectively
 
-```bash
-cd client
-npm install
-```
-
-```bash
-cd server
-npm install
-```
-
-2. Create a `.env` file in both the `client` and `server` directories and add the environment variables as shown in the `.env.example` files.
-3. Start the server
-
-```bash
-cd server
-npm start
-```
-
-4. Start the client
-
-```bash
-cd client
-npm start
-```
-
+2. Create a `.env` file in both the `client` and `server`  and add the environment variables as  in the `.env.example` files.
+3. Start the server `npm start` and Start the client `npm start` 
 
 ### Configuration
 
