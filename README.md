@@ -81,19 +81,6 @@ There are three distinct user roles within the system:
 - Flask
 - Hugging Face Transformers
 
-
-
-
-
-## Getting Started
-
-### Prerequisites
-
-Before running the application, make sure you have the following installed:
-
-- Node.js
-- MongoDB or MongoDB Atlas account
-
 ### Installation
 
 1. Downld the folder ConnectCircle and Go to the project directory and install dependencies for both the client and server
@@ -126,7 +113,7 @@ npm start
 
 ### Configuration
 
-Run the `admin_tool.sh` script from the server directory with permissions for executing the script. This script is used for configuring the admin account, creating the initial communities, and other settings.
+Run the `admin_tool.sh` script from the server directory with permissions for executing the script.
 ```bash
 ./admin_tool.sh
 ``` 
