@@ -17,7 +17,7 @@ ConnectCircle is an interactive social platform designed to connect people, fost
 
 ## Project Overview
 
-The project is a social networking platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It incorporates two major features: an automated content moderation system and context-based authentication. These features are accompanied by common functionalities found in social media applications, such as profile creation, post creation and sharing, liking and commenting on posts, and following/unfollowing users.
+The project is a social networking platform developed with the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. It features an automated content moderation system and context-based authentication as its key highlights. Alongside these, it offers standard social media functionalities such as user profile creation, posting and sharing content, liking and commenting on posts, and managing user connections through following and unfollowing
 
 ![UI-ConnectCircle](https://raw.githubusercontent.com/alwinvargh/ConnectCircle/refs/heads/main/img/sup.jpg)
 
